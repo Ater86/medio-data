@@ -1,0 +1,154 @@
+{
+	"version": 1,
+	"checked": "2026-09-25",
+	"emergency": {
+		"name": "Emergency",
+		"phone": "000",
+		"for": "Life-threatening emergencies",
+		"hours": "24/7"
+	},
+	"services": [
+		{
+			"name": "Lifeline",
+			"for": "Crisis support, suicide prevention",
+			"hours": "24/7",
+			"phone": "13 11 14",
+			"text": "0477 13 11 14",
+			"chat_url": "https://www.lifeline.org.au",
+			"website": "https://www.lifeline.org.au"
+		},
+		{
+			"name": "Suicide Call Back Service",
+			"for": "Anyone feeling suicidal, or supporting someone who is",
+			"hours": "24/7",
+			"phone": "1300 659 467",
+			"website": "https://www.suicidecallbackservice.org.au"
+		},
+		{
+			"name": "Beyond Blue",
+			"for": "Depression and anxiety",
+			"hours": "24/7",
+			"phone": "1300 22 4636",
+			"chat_url": "https://www.beyondblue.org.au",
+			"website": "https://www.beyondblue.org.au"
+		},
+		{
+			"name": "Kids Helpline",
+			"for": "Children and young people 5-25",
+			"hours": "24/7",
+			"phone": "1800 55 1800",
+			"website": "https://www.kidshelpline.com.au"
+		},
+		{
+			"name": "headspace (eheadspace)",
+			"for": "Young people 12-25 and their families",
+			"hours": "See website",
+			"phone": "1800 650 890",
+			"chat_url": "https://www.headspace.org.au",
+			"website": "https://www.headspace.org.au"
+		},
+		{
+			"name": "MensLine Australia",
+			"for": "Men",
+			"hours": "24/7",
+			"phone": "1300 78 99 78",
+			"chat_url": "https://www.mensline.org.au",
+			"website": "https://www.mensline.org.au"
+		},
+		{
+			"name": "13YARN",
+			"for": "Aboriginal and Torres Strait Islander people",
+			"hours": "24/7",
+			"phone": "13 92 76",
+			"website": "https://www.13yarn.org.au"
+		},
+		{
+			"name": "QLife",
+			"for": "LGBTIQ+ people",
+			"hours": "3pm-9pm daily",
+			"phone": "1800 184 527",
+			"chat_url": "https://www.qlife.org.au",
+			"website": "https://www.qlife.org.au"
+		},
+		{
+			"name": "Poisons Information Centre",
+			"for": "Suspected poisoning, including taking too much medicine",
+			"hours": "24/7",
+			"phone": "13 11 26"
+		},
+		{
+			"name": "healthdirect nurse line",
+			"for": "Health advice from a registered nurse",
+			"hours": "24/7",
+			"phone": "1800 022 222",
+			"website": "https://www.healthdirect.gov.au"
+		},
+		{
+			"name": "Medicare",
+			"for": "Medicare enquiries",
+			"hours": "See website",
+			"phone": "132 011",
+			"website": "https://www.servicesaustralia.gov.au"
+		},
+		{
+			"name": "R U OK?",
+			"for": "Guides on how to check in with someone who may be struggling",
+			"notes": "Not a helpline.",
+			"website": "https://www.ruok.org.au"
+		}
+	],
+	"treatments": [
+		{
+			"name": "Mental health treatment plan (Better Access)",
+			"notes": "From a GP, psychiatrist or paediatrician. Medicare rebates for 10 individual and 10 group sessions per calendar year with a psychologist, social worker or occupational therapist. Medicare usually covers part of the fee.",
+			"website": "https://www.healthdirect.gov.au"
+		},
+		{
+			"name": "Psychiatrist",
+			"notes": "Medicare rebates with a referral, usually from a GP."
+		},
+		{
+			"name": "rTMS for depression",
+			"notes": "On the MBS since 1 November 2021 (items 14216, 14217, 14219, 14220) for adults over 18 with major depressive disorder who have tried at least two classes of antidepressants and remain unwell, and have not had rTMS before. Prescribed by an rTMS-trained psychiatrist, with a referral from a GP or psychiatrist. First course up to 35 sessions, retreatment course up to 15.",
+			"website": "https://www.mbsonline.gov.au"
+		},
+		{
+			"name": "Medicare Mental Health",
+			"hours": "Weekdays 8:30am-5pm",
+			"phone": "1800 595 212"
+		}
+	],
+	"programs": [
+		{
+			"name": "My Aged Care",
+			"hours": "Mon-Fri 8am-8pm, Sat 10am-2pm",
+			"phone": "1800 200 422",
+			"notes": "Covers the Commonwealth Home Support Program (entry-level help at home, including transport providers) and Support at Home.",
+			"website": "https://www.myagedcare.gov.au"
+		},
+		{
+			"name": "NDIS",
+			"hours": "Mon-Fri 8am-7pm local time",
+			"phone": "1800 800 110",
+			"website": "https://www.ndis.gov.au"
+		},
+		{
+			"name": "Mobility Allowance (Services Australia)",
+			"notes": "Help with travel costs for some people who cannot use public transport. See the website for who can get it.",
+			"website": "https://www.servicesaustralia.gov.au/mobility-allowance"
+		},
+		{
+			"name": "DVA",
+			"phone": "1800 838 372",
+			"phone_label": "1800 VETERAN (1800 838 372)",
+			"notes": "Veteran Card holders can get help with travel to medical treatment, including Booked Car with Driver.",
+			"website": "https://www.dva.gov.au"
+		},
+		{
+			"name": "Carer Gateway",
+			"hours": "Mon-Fri 8am-5pm",
+			"phone": "1800 422 737",
+			"website": "https://www.carergateway.gov.au"
+		}
+	]
+}
