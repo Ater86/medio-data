@@ -1,5 +1,5 @@
 {
-	"version": 1,
+	"version": 2,
 	"checked": "2026-09-25",
 	"emergency": {
 		"name": "Emergency",
@@ -149,6 +149,188 @@
 			"hours": "Mon-Fri 8am-5pm",
 			"phone": "1800 422 737",
 			"website": "https://www.carergateway.gov.au"
+		}
+	],
+	"facts": [
+		{
+			"id": 1,
+			"text": "Your heart beats around 100,000 times every day, about 72 beats a minute at rest.",
+			"source": "Wikipedia: Heart",
+			"url": "https://en.wikipedia.org/wiki/Heart"
+		},
+		{
+			"id": 2,
+			"text": "Most adults need 7 to 9 hours of sleep a night to feel their best.",
+			"source": "healthdirect: Sleep",
+			"url": "https://www.healthdirect.gov.au/sleep"
+		},
+		{
+			"id": 3,
+			"text": "Babies are born with about 270 bones. Many fuse as we grow, leaving 206 in adults.",
+			"source": "Wikipedia: Human skeleton",
+			"url": "https://en.wikipedia.org/wiki/Human_skeleton"
+		},
+		{
+			"id": 4,
+			"text": "Your brain is only about 2% of your body weight, but uses about 20% of its energy.",
+			"source": "Wikipedia: Human brain",
+			"url": "https://en.wikipedia.org/wiki/Human_brain"
+		},
+		{
+			"id": 5,
+			"text": "Australia's guidelines suggest adults aim for 2½ to 5 hours of moderate activity, like brisk walking, each week.",
+			"source": "Australian Government: Physical activity guidelines",
+			"url": "https://www.health.gov.au/topics/physical-activity-and-exercise/physical-activity-and-exercise-guidelines-for-all-australians/for-adults-18-to-64-years"
+		},
+		{
+			"id": 6,
+			"text": "Breaking up long stretches of sitting, even just by standing and moving for a few minutes, is good for your health.",
+			"source": "Australian Government: Physical activity guidelines",
+			"url": "https://www.health.gov.au/topics/physical-activity-and-exercise/physical-activity-and-exercise-guidelines-for-all-australians/for-adults-18-to-64-years"
+		},
+		{
+			"id": 7,
+			"text": "Australian Dietary Guidelines suggest most adults eat 5 serves of vegetables and 2 serves of fruit a day.",
+			"source": "Eat For Health: Australian Dietary Guidelines",
+			"url": "https://www.eatforhealth.gov.au/food-essentials/how-much-do-we-need-each-day"
+		},
+		{
+			"id": 8,
+			"text": "Water makes up around 60% of an adult's body weight.",
+			"source": "Wikipedia: Body water",
+			"url": "https://en.wikipedia.org/wiki/Body_water"
+		},
+		{
+			"id": 9,
+			"text": "Your skin is your body's largest organ.",
+			"source": "Wikipedia: Skin",
+			"url": "https://en.wikipedia.org/wiki/Skin"
+		},
+		{
+			"id": 10,
+			"text": "At rest, most adults take 12 to 20 breaths a minute: well over 17,000 breaths a day.",
+			"source": "Wikipedia: Respiratory rate",
+			"url": "https://en.wikipedia.org/wiki/Respiratory_rate"
+		},
+		{
+			"id": 11,
+			"text": "Red blood cells live for about 120 days before your body recycles them.",
+			"source": "Wikipedia: Red blood cell",
+			"url": "https://en.wikipedia.org/wiki/Red_blood_cell"
+		},
+		{
+			"id": 12,
+			"text": "Your body makes more than 2 million new red blood cells every second.",
+			"source": "Wikipedia: Red blood cell",
+			"url": "https://en.wikipedia.org/wiki/Red_blood_cell"
+		},
+		{
+			"id": 13,
+			"text": "In Australia, sunlight on the skin is the main source of vitamin D.",
+			"source": "healthdirect: Vitamin D",
+			"url": "https://www.healthdirect.gov.au/vitamin-d"
+		},
+		{
+			"id": 14,
+			"text": "The smallest bone in your body, the stapes, is in your middle ear and is only about 3 mm long.",
+			"source": "Wikipedia: Stapes",
+			"url": "https://en.wikipedia.org/wiki/Stapes"
+		},
+		{
+			"id": 15,
+			"text": "Your thigh bone, the femur, is the longest and strongest bone in your body.",
+			"source": "Wikipedia: Femur",
+			"url": "https://en.wikipedia.org/wiki/Femur"
+		},
+		{
+			"id": 16,
+			"text": "Fingernails grow about 3 mm a month.",
+			"source": "Wikipedia: Nail",
+			"url": "https://en.wikipedia.org/wiki/Nail_(anatomy)"
+		},
+		{
+			"id": 17,
+			"text": "Hair on your head grows about 1 to 1.5 cm a month.",
+			"source": "Wikipedia: Hair",
+			"url": "https://en.wikipedia.org/wiki/Hair"
+		},
+		{
+			"id": 18,
+			"text": "Most people blink around 15 to 20 times a minute, which keeps the eyes moist and clean.",
+			"source": "Wikipedia: Blinking",
+			"url": "https://en.wikipedia.org/wiki/Blinking"
+		},
+		{
+			"id": 19,
+			"text": "More than 2 in 5 Australians aged 16 to 85 have had a mental health condition at some point in their life. You are far from alone.",
+			"source": "ABS: National Study of Mental Health and Wellbeing",
+			"url": "https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release"
+		},
+		{
+			"id": 20,
+			"text": "Regular physical activity can lift your mood and help you sleep better.",
+			"source": "healthdirect: Exercise and mental health",
+			"url": "https://www.healthdirect.gov.au/exercise-and-mental-health"
+		},
+		{
+			"id": 21,
+			"text": "If you take several medicines, your GP can refer you for a free Home Medicines Review, where a pharmacist checks they all work safely together.",
+			"source": "healthdirect: Home Medicines Review",
+			"url": "https://www.healthdirect.gov.au/home-medicines-review"
+		},
+		{
+			"id": 22,
+			"text": "Unwanted or expired medicines can be returned to any pharmacy in Australia for free, safe disposal.",
+			"source": "Return Unwanted Medicines",
+			"url": "https://www.returnmed.com.au"
+		},
+		{
+			"id": 23,
+			"text": "A Home Medicines Review pharmacist can also suggest ways to help you remember to take the right medicine at the right time.",
+			"source": "healthdirect: Home Medicines Review",
+			"url": "https://www.healthdirect.gov.au/home-medicines-review"
+		},
+		{
+			"id": 24,
+			"text": "The cells lining your stomach are replaced every few days.",
+			"source": "Wikipedia: Stomach",
+			"url": "https://en.wikipedia.org/wiki/Stomach"
+		},
+		{
+			"id": 25,
+			"text": "Your liver can regrow after part of it has been removed.",
+			"source": "Wikipedia: Liver regeneration",
+			"url": "https://en.wikipedia.org/wiki/Liver_regeneration"
+		},
+		{
+			"id": 26,
+			"text": "Going to bed and getting up at the same times each day, even on weekends, helps your body clock and your sleep.",
+			"source": "healthdirect: Sleep",
+			"url": "https://www.healthdirect.gov.au/sleep"
+		},
+		{
+			"id": 27,
+			"text": "Your small intestine is several metres long, folded up to fit inside your abdomen.",
+			"source": "Wikipedia: Small intestine",
+			"url": "https://en.wikipedia.org/wiki/Small_intestine"
+		},
+		{
+			"id": 28,
+			"text": "Taste bud cells are replaced about every one to two weeks.",
+			"source": "Wikipedia: Taste bud",
+			"url": "https://en.wikipedia.org/wiki/Taste_bud"
+		},
+		{
+			"id": 29,
+			"text": "A mental health treatment plan from your GP gives Medicare rebates for up to 10 individual sessions a year with a psychologist or other mental health professional.",
+			"source": "healthdirect: Mental health treatment plans",
+			"url": "https://www.healthdirect.gov.au/mental-health-treatment-plan"
+		},
+		{
+			"id": 30,
+			"text": "Staying connected with friends and family, and making time for things you enjoy, are simple ways to look after your mental health.",
+			"source": "healthdirect: Tips for good mental health",
+			"url": "https://www.healthdirect.gov.au/tips-for-good-mental-health"
 		}
 	]
 }
