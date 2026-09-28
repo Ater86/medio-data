@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # MediO privacy policy
 
-*Last updated 28 September 2026 · SpX Inc*
+*Last updated 29 September 2026 · SpX Inc*
 
 MediO helps you keep track of your medications, scripts, costs, mood and sleep. It is designed so
 that your health information stays on your phone.
@@ -27,10 +27,11 @@ information is kept on your phone and is never used for advertising or shared. Y
 MediO's access at any time in Health Connect's settings.
 
 ## Advertising
-Unless you buy **Remove ads**, MediO shows a small banner ad on its Reports and Care screens, using
-**Google AdMob** (Google may also use other ad networks through AdMob mediation). To show and count
-ads, Google and its partners receive your phone's advertising ID, approximate location (from your
-internet address) and whether an ad was shown or tapped. They never receive your health
+Unless you buy **Remove ads**, MediO shows a small banner ad above the tabs on its Home, Reports
+and Care screens, using **Google AdMob** (Google may also use other ad networks through AdMob
+mediation). Ads are never shown on reminders, medication forms, Mood, Support or Settings. To show
+and count ads, Google and its partners receive your phone's advertising ID, approximate location
+(from your internet address) and whether an ad was shown or tapped. They never receive your health
 information, medications or anything you have entered in MediO.
 
 Ads follow Google Play's Families rules. MediO asks your age group (or uses your date of birth if
