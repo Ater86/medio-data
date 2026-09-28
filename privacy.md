@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # MediO privacy policy
 
-*Last updated 28 September 2026 · SpX Industries*
+*Last updated 28 September 2026 · SpX Inc*
 
 MediO helps you keep track of your medications, scripts, costs, mood and sleep. It is designed so
 that your health information stays on your phone.
@@ -14,7 +14,7 @@ that your health information stays on your phone.
 Your medications, doses, reminders, scripts and eScript links, receipts and costs, allergies,
 care team, Medicare and other cards, mood and sleep entries, health details (such as date of birth,
 height and weight), photos, notes and anything read from Health Connect are stored **only on your
-phone**. MediO does not send them to SpX Industries, advertisers or anyone else. They leave the
+phone**. MediO does not send them to SpX Inc, advertisers or anyone else. They leave the
 phone only if you choose to share them yourself (for example a PDF report, a backup or an email).
 
 Photos of medicine boxes, labels and scripts are read on the phone (Google ML Kit); the photo is not
@@ -49,7 +49,7 @@ purchase was made.
 
 ## Usage statistics
 If you leave usage statistics on (you choose when MediO first starts, and can change it in
-Settings › About › Analytics), MediO sends SpX Industries, through Google Analytics, the name of
+Settings › About › Analytics), MediO sends SpX Inc, through Google Analytics, the name of
 each screen you open, the app version and a random ID for this install. It never includes your
 health information, names, notes, photos or cards.
 
@@ -68,9 +68,9 @@ collect personal information from children, and ads for younger users follow the
 
 ## Your choices and deleting your data
 Everything MediO keeps is on your phone: you can delete it in Settings (Account & backup) or by
-uninstalling MediO. SpX Industries does not hold a copy.
+uninstalling MediO. SpX Inc does not hold a copy.
 
 ## Contact
-SpX Industries · MediOsupport@spxinc.org
+SpX Inc · MediOsupport@spxinc.org
 
 MediO is tracking software, not a medical device or a replacement for medical advice.
