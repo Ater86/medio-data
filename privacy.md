@@ -21,7 +21,7 @@ Photos of medicine boxes, labels and scripts are read on the phone (Google ML Ki
 uploaded. Cards are kept encrypted behind your PIN or biometrics.
 
 ## Health Connect
-If you connect Health Connect, MediO reads sleep, steps, heart rate, resting heart rate and weight
+If you connect Health Connect, MediO reads sleep, heart rate, resting heart rate and weight
 to show them in MediO. It only reads; it never writes or deletes anything in Health Connect. This
 information is kept on your phone and is never used for advertising or shared. You can remove
 MediO's access at any time in Health Connect's settings.
