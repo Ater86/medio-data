@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # MediO privacy policy
 
-*Last updated 7 October 2026 · SpX Inc*
+*Last updated 8 October 2026 · SpX Inc*
 
 MediO helps you keep track of your medications, scripts, costs, mood and sleep. It is designed so
 that your health information stays on your phone.
@@ -21,16 +21,15 @@ Photos of medicine boxes, labels and scripts are read on the phone (Google ML Ki
 uploaded. Cards are kept encrypted behind your PIN or biometrics.
 
 ## Health Connect
-If you connect Health Connect, MediO reads sleep, heart rate, resting heart rate and weight
-to show them in MediO. It only reads; it never writes or deletes anything in Health Connect. This
+If you connect Health Connect, MediO reads sleep, heart rate, resting heart rate, weight and blood
+pressure to show them in MediO. It only reads; it never writes or deletes anything in Health Connect. This
 information is kept on your phone and is never used for advertising or shared. You can remove
 MediO's access at any time in Health Connect's settings.
 
 ## Advertising
-Unless you buy **Remove ads**, MediO shows a small banner ad at the top of its Home, Reports,
-Care and Mood screens, and on the medication reminder popup, using **Google AdMob** (Google may also
-use other ad networks through AdMob mediation). Ads are never shown on medication forms, Support or
-Settings. To show
+Unless you buy **Remove ads**, MediO shows a small banner ad at the top of its Home, Health,
+Care and Mood screens, using **Google AdMob** (Google may also use other ad networks through AdMob
+mediation). Ads also show on the medication reminder popup; they are never shown on medication forms, Support or Settings. To show
 and count ads, Google and its partners receive your phone's advertising ID, approximate location
 (from your internet address) and whether an ad was shown or tapped. They never receive your health
 information, medications or anything you have entered in MediO.
