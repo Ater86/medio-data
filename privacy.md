@@ -72,6 +72,6 @@ Everything MediO keeps is on your phone: you can delete it in Settings (Account 
 uninstalling MediO. SpX Interactive does not hold a copy.
 
 ## Contact
-SpX Interactive (registered company SpX Inc, Australia) · MediOsupport@spxinc.org
+SpX Interactive (registered company SpX Inc, Australia) · MediOsupport@spxinteractive.com
 
 MediO is tracking software, not a medical device or a replacement for medical advice.
